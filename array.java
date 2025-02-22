@@ -18,24 +18,24 @@ public class array {
         // System.out.println(threeD[0][1][1]);
         // // Dynamic Array
         // //1D Example 
-        // Scanner scan = new Scanner(System.in);
-        // // System.out.print(" Enter The Size Of Array ");
-        // // int size = scan.nextInt();
-        // // int arr[] = new int[size];
+        Scanner scan = new Scanner(System.in);
+        // System.out.print(" Enter The Size Of Array ");
+        // int size = scan.nextInt();
+        // int arr[] = new int[size];
         
         
         
-        // // //  taking input array in the array
-        // // for (int i = 0; i < arr.length; i++) {
-        // //     System.out.println("Enter the value to store in array");
-        // //     arr[i] = scan.nextInt();
+        // //  taking input array in the array
+        // for (int i = 0; i < arr.length; i++) {
+        //     System.out.println("Enter the value to store in array");
+        //     arr[i] = scan.nextInt();
             
             
-        // // }
-        // // // printing the array
-        // // for(int i : arr){
-        // //     System.out.println(i);
-        // // }
+        // }
+        // // printing the array
+        // for(int i : arr){
+        //     System.out.println(i);
+        // }
 
         // // 2D Array 
        
@@ -77,6 +77,20 @@ public class array {
         int[][] jaggedArray = new int[2][];
        jaggedArray[0] = new int[] {1,2,3 };
        jaggedArray[1] = new int[]{1,2,3 };
+       jaggedArray[2] = new int[] {1,2,3 };
+       jaggedArray[3] = new int[]{1,2,3 };
+       jaggedArray[4] = new int[] {1,2,3 };
+       jaggedArray[5] = new int[]{1,2,3 };
+       jaggedArray[6] = new int[] {1,2,3 };
+       jaggedArray[7] = new int[]{1,2,3 };
+       jaggedArray[8] = new int[] {1,2,3 };
+       jaggedArray[9] = new int[]{1,2,3 };
+       jaggedArray[10] = new int[] {1,2,3 };
+       jaggedArray[11] = new int[]{1,2,3 };
+       jaggedArray[12] = new int[] {1,2,3 };
+       jaggedArray[13] = new int[]{1,2,3 };
+       jaggedArray[14] = new int[] {1,2,3 };
+       jaggedArray[15] = new int[]{1,2,3 };
       
 
 

@@ -1,3 +1,1 @@
-h = input.next().charAt(0);
-            System.out.println("Character : "+ch);
-    }
+Scanner scan = new Scanner(System.in);

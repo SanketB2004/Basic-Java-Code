@@ -29,7 +29,7 @@ public class input{
         // 3 ] printf();
         // 4] format();
 
-        // System.out.printf("%d",55);
+        System.out.printf("%d",55);
 // this method call a date
         System.out.println(new Date());
 
