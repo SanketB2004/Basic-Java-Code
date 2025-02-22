@@ -1,0 +1,1 @@
+A comprehensive one-shot revision guide for Java covering core concepts, OOP, collections, multithreading, exception handling, and more. Perfect for quick revision before interviews or exams! 📖 Ideal For: ✅ Interview Prep | ✅ Exam Revision | ✅ Java Quick Recap Give this repo a ⭐ if you find it useful!
